@@ -1,0 +1,2 @@
+language = "cpp"
+run = "clang++-7 -o basicInheritance BasicInheritance.cpp; ./basicInheritance"
